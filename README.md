@@ -2,10 +2,10 @@
 This is my solution for front-end mentor challenge name: [Blog preview card challenge](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS)
 
 ### Screenshot
-Mobile view
+Mobile view\
 ![](./Screenshots/mobile.png)
 
-desktop view
+desktop view\
 ![](./Screenshots/desktop.png)
 
 ### Demo
