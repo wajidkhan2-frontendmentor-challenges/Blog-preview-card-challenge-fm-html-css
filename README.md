@@ -8,8 +8,8 @@ Mobile view
 desktop view
 ![](./Screenshots/desktop.png)
 
-# Demo
-    [Click me](https://wajidkhan2-frontendmentor-challenges.github.io/Blog-preview-card-challenge-fm-html-css/)
+### Demo
+[Click me](https://wajidkhan2-frontendmentor-challenges.github.io/Blog-preview-card-challenge-fm-html-css/)
 
 
 ### Built with
